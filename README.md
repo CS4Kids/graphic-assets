@@ -1,2 +1,5 @@
 # graphic-assets
 Graphics used throughout lessons
+
+Field mouse photo by <a href="https://unsplash.com/@nirvamo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marvin Zettl</a> on <a href="https://unsplash.com/s/photos/mice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
