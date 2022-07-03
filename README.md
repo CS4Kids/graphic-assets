@@ -10,6 +10,8 @@ Lake photo by <a href="https://unsplash.com/@jakobowens1?utm_source=unsplash&utm
 
 Worm photo by <a href="https://unsplash.com/@viktortalashuk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Viktor Talashuk</a> on <a href="https://unsplash.com/s/photos/earthworm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
+Spider photo by <a href="https://unsplash.com/@floschmaezz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Florian Schmetz</a> on <a href="https://unsplash.com/s/photos/spider?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
   
 Water sound from "Free Sounds Library", a Free Sound Effects Site: https://www.freesoundslibrary.com/dripping-water/
 Licence: License: Attribution 4.0 International (CC BY 4.0). You are allowed to use sound effects free of charge and royalty free in your multimedia projects for commercial or non-commercial purposes.
